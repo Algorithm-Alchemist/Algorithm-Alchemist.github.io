@@ -189,14 +189,7 @@ const AllData = () => {
 
   // serviceArray items for about page
   const serviceArray = [
-    {
-      id: "1",
-      icon: icon5,
-      title: "QA Automation",
-      des: "Expertise in designing, implementing, and maintaining robust automated testing solutions to ensure software quality and streamline QA processes.",
-      color: "#8774FF",
-      bg: "#FCF4FF",
-    },
+   
     {
       id: "2",
       icon: icon,
@@ -236,6 +229,14 @@ const AllData = () => {
       des: "Connecting to third-party APIs to fetch and display data within web applications. Developing custom APIs for clients or partners.",
       color: "#FF75D8",
       bg: "#FFF0F8",
+    },
+    {
+      id: "1",
+      icon: icon5,
+      title: "QA Automation",
+      des: "Expertise in designing, implementing, and maintaining robust automated testing solutions to ensure software quality and streamline QA processes.",
+      color: "#8774FF",
+      bg: "#FCF4FF",
     },
   ];
 

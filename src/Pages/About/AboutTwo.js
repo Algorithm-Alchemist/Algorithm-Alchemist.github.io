@@ -30,7 +30,12 @@ const AboutTwo = () => {
                 <div className="col-span-12 space-y-2.5">
                   <div className="lg:mr-16">
                     <p className="leading-7 text-gray-lite dark:text-color-910">
-                    Greetings! I'm Khubaib, a versatile QA Automation Engineer deeply immersed in MERN (MongoDB, Express.js, React.js, Node.js) Stack development. With a passion for ensuring software quality and a flair for crafting robust testing solutions, I bring a unique blend of automation expertise and full-stack proficiency to every project I undertake.
+                    I'm a MERN Stack Developer, with a passion for crafting
+                    seamless web applications and a keen interest in the world
+                    of machine learning. My expertise lies in building robust
+                    web solutions using the MERN (MongoDB, Express, React,
+                    Node.js) stack, ensuring that user experiences are both
+                    functional and delightful. I also do QA automation.
                     </p>
                     <p className="text-gray-lite leading-7 mt-2.5 dark:text-color-910">
                       My goal is to leverage technology to simplify complex
@@ -52,7 +57,7 @@ const AboutTwo = () => {
                     of machine learning. My expertise lies in building robust
                     web solutions using the MERN (MongoDB, Express, React,
                     Node.js) stack, ensuring that user experiences are both
-                    functional and delightful.
+                    functional and delightful. I also do QA automation.
                   </p>
                   <p className="text-gray-lite leading-7 mt-2.5 dark:text-color-910">
                     My goal is to leverage technology to simplify complex

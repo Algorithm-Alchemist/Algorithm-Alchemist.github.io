@@ -18,11 +18,11 @@ const Footer = ({ bg, condition }) => {
         {`© ${currentYear} All Rights Reserved by `}
         <a
           className="hover:text-[#FA5252] duration-300 transition"
-          href="https://github.com/gitgud5/"
+          href="https://github.com/algorithm-alchemist/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Muhammad Umar
+          Khubaib Ahmed
         </a>
         .
       </p>
