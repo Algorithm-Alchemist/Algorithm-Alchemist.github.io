@@ -2,7 +2,7 @@
   "name": "bostami",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://gitgud5.github.io",
+  "homepage": "https://algorithm-alchemist.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
