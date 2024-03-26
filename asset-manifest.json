@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33b1df94.css",
+    "main.js": "/static/js/main.9cd0e1a5.js",
+    "static/media/logo.png": "/static/media/logo.da04c5ba43b46b5bb750.png",
+    "static/media/avatar.png": "/static/media/avatar.27e69fc8baf8c039cf1d.png",
+    "static/media/trenda.png": "/static/media/trenda.0a71cfb5e109b193300a.png",
+    "static/media/bg.jpg": "/static/media/bg.81778ea0f6306193ac44.jpg",
+    "static/media/bgtwo.jpg": "/static/media/bgtwo.568bf743284339236ec4.jpg",
+    "static/media/trenda-small.png": "/static/media/trenda-small.b65a604a1e5257760799.png",
+    "static/media/bg-dark.jpg": "/static/media/bg-dark.8fb39b45ee55aa5d341e.jpg",
+    "static/media/cv.pdf": "/static/media/cv.e654bd6a07021d22f22d.pdf",
+    "static/media/homie-app.png": "/static/media/homie-app.a3086d8bd76171b28dbf.png",
+    "static/media/homie-app-small.png": "/static/media/homie-app-small.57c06f73adc9cb3b604b.png",
+    "static/media/icon-5.svg": "/static/media/icon-5.c300deca7d644f8b2c4d49a56cead043.svg",
+    "static/media/icon-2.svg": "/static/media/icon-2.7868a5d125539d3fa2443816824ac1ea.svg",
+    "static/media/icon-1.svg": "/static/media/icon-1.e3e173df8c10883af450c712535d5b15.svg",
+    "static/media/icon-6.svg": "/static/media/icon-6.89080b1428c4680e6cc14e56fb345286.svg",
+    "static/media/icon-4.svg": "/static/media/icon-4.debd2460915c6956cf9f0807f6a6e175.svg",
+    "static/media/icon-3.svg": "/static/media/icon-3.fdad60c61dbd06fc9f40447af733556b.svg",
+    "index.html": "/index.html",
+    "main.33b1df94.css.map": "/static/css/main.33b1df94.css.map",
+    "main.9cd0e1a5.js.map": "/static/js/main.9cd0e1a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b1df94.css",
+    "static/js/main.9cd0e1a5.js"
+  ]
+}
